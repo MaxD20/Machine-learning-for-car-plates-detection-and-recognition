@@ -16,7 +16,7 @@ The performance outputs significant parameters used are: confusion matrix, epoch
 
 The split done was 80% training and 20% validation.<br>
 Data training<br>
-<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/data_of_vehicle_registration_plates.jpg?raw=true" alt="Data training" height="40%" width="40%"/></br>
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/data_of_vehicle_registration_plates.jpg?raw=true" alt="Data training" height="20%" width="20%"/></br>
 
 Execution of main programme<br>
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/execution_main_programme.png?raw=true" alt="Image showing processed video output" height="40%" width="30%"/></br>
