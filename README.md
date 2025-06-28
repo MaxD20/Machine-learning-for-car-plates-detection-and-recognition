@@ -1,3 +1,6 @@
 # Machine-learning-for-car-plates-detection-and-recognition
 I developed a video processing algorithm in Python which uses YOLOv8, OpenCV, EasyOCR libraries for license plates detection, frames processing and alphanumeric characters extraction.
-The algorithm process 384 frames of a 12 seconds smartphone recorded video with moving cars besides the road in a periurban area with traffic conditions. The troubleshooting faced were occlusions, varying lighting conditions and windscreen reflection. The training was done using 514 images from storage.googleapi dataset and 20 images with romanian license plates self-provided and manually annotated in CVAT. As output results, the model successfully localize and identify 54% of car plates with an overall confidence score of 0.6.
+
+The algorithm process 384 frames of a 12 seconds smartphone recorded video with moving cars besides the road in a periurban area with traffic conditions. The troubleshooting faced were occlusions, varying lighting conditions and windscreen reflection. The training was done using 514 images from storage.googleapi dataset and 20 images with romanian license plates self-provided and manually annotated in CVAT. 
+
+As output results, the model successfully localize and identify 54% of car plates with an overall confidence score of 0.6.
