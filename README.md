@@ -31,15 +31,15 @@ Vehicle license plate recognition with OCR, measured in 2.5ms, 167.4ms for infer
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m3.jpg?raw=true" alt="Vehicle license plate recognition with OCR" height="40%" width="30%"/></br>
 
 Vehicle license plate recognition with OCR 2<br>
-<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202.png?raw=true" alt="text_score_2" width="40%" height="40%"/></br>
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202.png?raw=true" alt="text_score_2" width="30%" height="40%"/></br>
 
 Vehicle license plate recognition - case of misdetected letter<br>
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202nd%20case%20of%20misdetected%20letter.png?raw=true" alt="text_score_3" width="40%" height="40%"/></br>
 
 Confidence curve of dataset training<br>
-<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/confidence_curve.png?raw=true" alt="Confidence curve" height="40%" width="40%"/></br>
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/confidence_curve.png?raw=true" alt="Confidence curve" height="40%" width="30%"/></br>
 
 Precision confidence curve<br>
-<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/precision_confidence_curve.png?raw=true" alt="Precision confidence curve" height="40%" width="40%"/></br>
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/precision_confidence_curve.png?raw=true" alt="Precision confidence curve" height="40%" width="30%"/></br>
 
 
