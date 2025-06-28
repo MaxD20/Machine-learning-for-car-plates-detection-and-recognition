@@ -4,15 +4,15 @@ The goal of the project was to develop a video processing algorithm in Python wh
 The algorithm process 384 frames of a 12 seconds smartphone recorded video with moving cars besides the road in a periurban area with traffic conditions. The troubleshooting faced were occlusions, varying lighting conditions and windscreen reflection. The training was done using 514 images from storage.googleapi dataset and 20 images with Romanian license plates self-provided and manually annotated in CVAT. As output results, the model successfully localize and identify 54% of car plates with an overall confidence score of 0.6. The performance outputs significant parameters used are: confusion matrix, epoch size, train classes statistics, precision and recall. 
 
 Execution of main programme
-![image alt] https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/execution_main_programme.png?raw=true (execution main programme)
+![image alt](https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/execution_main_programme.png?raw=true)
 
 Processed frame classified as vehicle_registration_plate in windscreen reflection
-![image alt]https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m1.jpg?raw=true
+![image alt](https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m1.jpg?raw=true)
 
 Corner case of multiple license plates detection
-![image alt]https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m2.jpg?raw=true
+![image alt](https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m2.jpg?raw=true)
 
 Vehicle license plate recognition with OCR, measured in 2.5ms, 167.4ms for inference and 1.6ms for postprocessing, which indicates real time feasibility metrics for the 297th frame of the video.
-![image alt]https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m3.jpg?raw=true
+![image alt](https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/m3.jpg?raw=true)
 
 
