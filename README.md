@@ -34,7 +34,8 @@ Vehicle license plate recognition with OCR 2<br>
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202.png?raw=true" alt="text_score_2" width="30%" height="40%"/></br>
 
 Vehicle license plate recognition - case of misdetected letter<br>
-<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202nd%20case%20of%20misdetected%20letter.png?raw=true" alt="text_score_3" width="40%" height="40%"/></br>
+This care represent the vehicle license plate recognition and OCR of a SUV with a Bulgarian registration number plate, where is illustrated a case of misdetected letter, “I” instead of “H” from the 246th video frame. It is crucial to mention that, at detection, in the top left corner, the quality image of the registration number plate presented an amount of blur because of the lighting conditions captured in the frame. Moreover, the windscreen reflection between the phone camera and the vehicle is present in this case.
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/Vehicle%20license%20plate%20recognition%20and%20OCR%202nd%20case%20of%20misdetected%20letter.png?raw=true" alt="text_score_3" width="30%" height="40%"/></br>
 
 Confidence curve of dataset training<br>
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/confidence_curve.png?raw=true" alt="Confidence curve" height="40%" width="30%"/></br>
