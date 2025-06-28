@@ -1,10 +1,22 @@
 # Machine-learning-for-car-plates-detection-and-recognition
 
-The goal of the project was to develop a video processing algorithm in Python which uses YOLOv8 machine learning object detection, OpenCV, EasyOCR libraries for license plates detection, frames processing and alphanumeric characters extraction.
+The goal of the project was to develop a video processing algorithm in Python which uses 
+YOLOv8 machine learning object detection, OpenCV, EasyOCR libraries for license plates 
+detection, frames processing and alphanumeric characters extraction.
 
-The algorithm process 384 frames of a 12 seconds smartphone recorded video with moving cars besides the road in a periurban area with traffic conditions. The troubleshooting faced were occlusions, varying lighting conditions and windscreen reflection. 
+The algorithm process 384 frames of a 12 seconds smartphone recorded video with moving cars 
+besides the road in a periurban area with traffic conditions. 
+The troubleshooting faced were occlusions, varying lighting conditions and windscreen reflection. 
 
-The training was done using 514 images from storage.googleapi dataset and 20 images with Romanian license plates self-provided and manually annotated in CVAT. As output results, the model successfully localize and identify 54% of car plates with an overall confidence score of 0.6. The performance outputs significant parameters used are: confusion matrix, epoch size, train classes statistics, precision and recall. 
+The training was done using 514 images from storage.googleapi dataset and 20 images
+with Romanian license plates self-provided and manually annotated in CVAT. 
+As output results, the model successfully localize and identify 54% of car plates 
+with an overall confidence score of 0.6. 
+The performance outputs significant parameters used are: confusion matrix, epoch size, train classes statistics, precision and recall. 
+
+The split done was 80% training and 20% validation.<br>
+Data training<br>
+<img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/data_of_vehicle_registration_plates.jpg?raw=true" alt="Data training" height="40%" width="40%"/></br>
 
 Execution of main programme<br>
 <img src="https://github.com/MaxD20/Machine-learning-for-car-plates-detection-and-recognition/blob/main/execution_main_programme.png?raw=true" alt="Image showing processed video output" height="40%" width="30%"/></br>
